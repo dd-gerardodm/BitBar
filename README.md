@@ -1,0 +1,2 @@
+# BitBar
+Mac app
