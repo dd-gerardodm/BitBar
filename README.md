@@ -1,2 +1,5 @@
 # BitBar
-Mac app
+
+By Gerardo Diaz
+
+Test for a mac menu bar app
